@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RestCountries</string>
+    <string name="url">https://restcountries.eu/</string>
+</resources>
